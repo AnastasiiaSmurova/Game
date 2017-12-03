@@ -1,0 +1,13 @@
+{ "columns":10,
+ "image":"image/Brown.jpg",
+ "imageheight":291,
+ "imagewidth":323,
+ "margin":0,
+ "name":"Brown",
+ "spacing":0,
+ "tilecount":90,
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset"
+}
